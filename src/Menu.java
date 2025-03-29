@@ -33,6 +33,7 @@ public class Menu {
                     case 6 -> new Task6().run();
                     case 7 -> new Task7().run();
                     case 8 -> new Task8().run();
+                    case 9 -> new Task9().run();
 
 
                     default -> System.out.println("Invalid task number.");
