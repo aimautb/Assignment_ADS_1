@@ -11,16 +11,16 @@
 
 ## List of Available Tasks:
 
-Task 1: Determine the smallest number in an array.
-Task 2: Compute the arithmetic mean of given numbers.
-Task 3: Verify if a number is prime.
-Task 4: Calculate the factorial of a given number.
-Task 5: Retrieve the nth Fibonacci number.
-Task 6: Compute exponentiation (`a^n`) using recursion.
-Task 7: Display an array in reversed order.
-Task 8: Validate if a string contains only numeric digits.
-Task 9: Calculate the binomial coefficient `C(n, k)`.
-Task 10: Find the greatest common divisor (GCD) of two numbers.
+- **Task 1:** Determine the smallest number in an array.
+- **Task 2:** Compute the arithmetic mean of given numbers.
+- **Task 3:** Verify if a number is prime.
+- **Task 4:** Calculate the factorial of a given number.
+- **Task 5:** Retrieve the nth Fibonacci number.
+- **Task 6:** Compute exponentiation (`a^n`) using recursion.
+- **Task 7:** Display an array in reversed order.
+- **Task 8:** Validate if a string contains only numeric digits.
+- **Task 9:** Calculate the binomial coefficient `C(n, k)`.
+- **Task 10:** Find the greatest common divisor (GCD) of two numbers.
 
 To execute a task, select a number (1-10) from the menu, enter the required inputs, and receive the result.
 
