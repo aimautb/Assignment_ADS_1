@@ -26,6 +26,7 @@ public class Menu {
 
                 switch (choice) {
                     case 1 -> new Task1().run();
+                    case 2 -> new Task2().run();
 
                     default -> System.out.println("Invalid task number.");
                 }
